@@ -56,6 +56,7 @@ function Success() {
         </Typography>
         <img
           src={gaurentee}
+          alt="img"
           width="150"
           height="137"
           style={{ marginTop: "48px" }}

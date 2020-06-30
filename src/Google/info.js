@@ -1,6 +1,5 @@
 import React from "react";
 import { Grid, Typography } from "@material-ui/core";
-import classnames from "classnames";
 import { makeStyles } from "@material-ui/styles";
 
 const useStyles = makeStyles(theme => ({

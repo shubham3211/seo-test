@@ -4,7 +4,6 @@ import Header from "../Header";
 import { Grid } from "@material-ui/core";
 import BussinessDetails from "./BussinessDetails";
 import WorkingMan from "./WorkingMan";
-import mask from "../assets/mask1.png";
 import bg from "../assets/bg.png";
 import maskSmall from "../assets/Mask-small.png";
 import vector from "../assets/Vector 2.png";

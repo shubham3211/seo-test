@@ -59,31 +59,35 @@ function Carousel() {
         <Slider {...settings}>
           <div>
             <img
+              alt="img"
               style={{ margin: "auto", width: "392px", height: "256px" }}
               src={slide}
             />
           </div>
           <div>
             <img
+              alt="img"
               src={slide1}
               style={{ margin: "auto", width: "392px", height: "256px" }}
             />
           </div>
           <div>
             <img
+              alt="img"
               src={slide1}
               style={{ margin: "auto", width: "392px", height: "256px" }}
             />
           </div>
           <div>
             <img
+              alt="img"
               src={slide2}
               style={{ margin: "auto", width: "392px", height: "256px" }}
             />
           </div>
         </Slider>
       </Grid>
-      <Grid item xs={12} style={{ textAlign: "center", position:"relative" , top: "-100px" }}>
+      <Grid item xs={12} style={{ textAlign: "center", position:"relative" , top: "-10px" }}>
         <CustomButton
           text="See All Success Stories"
           background="#5AB5F9"
